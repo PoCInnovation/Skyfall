@@ -1,30 +1,16 @@
 > If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
 
-# [PROJECT'S NAME]
+# Skyfall
 
-[Project's description]
+Skyfall is the CTF team of PoC innovation, the student innovation center of EPITECH. You may find here all our write-ups
 
 ## How does it work?
 
-[Explain how this project is working]
-
-## Getting Started
-
-### Installation
-
-[Explain how to install all of the project's dependencies]
-
-### Quickstart
-
-[Explain how to run this project]
-
-### Usage
-
-[Explain how to use this project]
+Share our write-ups if you found them usefull
 
 ## Get involved
 
-You're invited to join this project ! Check out the [contributing guide](./CONTRIBUTING.md).
+We create/organize workshop and CTF, if you want to try you can join our discord : https://discord.gg/WHnUC6MX
 
 If you're interested in how the project is organized at a higher level, please contact the current project manager.
 
