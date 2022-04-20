@@ -1,5 +1,3 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
-
 # Skyfall
 
 Skyfall is the CTF team of PoC innovation, the student innovation center of EPITECH. You may find here all our write-ups
@@ -17,11 +15,11 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team :heart:
 
 Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy)
-| :---: | :---: | :---: |
+| [<img src="https://github.com/YannickTektek.png?size=85" width=85><br><sub>Yannick FERRARD</sub>](https://github.com/YannickTektek) | [<img src="https://github.com/Davphla.png?size=85" width=85><br><sub>David GOZLAN</sub>](https://github.com/Davphla) | [<img src="https://github.com/lucien-carneiro.png?size=85" width=85><br><sub>Lucien CARNEIRO</sub>](https://github.com/lucien-carneiro) | [<img src="https://github.com/Ozenski1.png?size=85" width=85><br><sub>Enzo DE CARVALHO</sub>](https://github.com/Ozenski1)
+| :---: | :---: | :---: | :---: | 
 
 Manager
-| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>[Manager's name]</sub>](https://github.com/adrienfort)
+| [<img src="https://github.com/AbdelkarimBENGRINE.png?size=85" width=85><br><sub>Abdelkarim BENGRINE</sub>](https://github.com/AbdelkarimBENGRINE)
 | :---: |
 
 <h2 align=center>
