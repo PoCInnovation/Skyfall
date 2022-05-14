@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+
+import sys
+
+for x in range(1, len(sys.argv)):
+    a = sys.argv[x]
+    b = "25"
+
+    sum = hex(int(a, 16) + int(b, 16))
+    print(sum[2:], end='')
+
