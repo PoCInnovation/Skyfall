@@ -31,3 +31,5 @@ We found that:
 <img src="banksy.jpeg">
 
 #### FLAG
+For the flag we take the name of the painting: Tesco Sandcastle:
+Hero{Tesco Sandcastle}
