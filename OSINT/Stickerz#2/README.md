@@ -26,4 +26,8 @@ What information do we have? :
 
 - We search on google all the information "Croydon" "Banksy" "Beach"
 
+We found that:
+
+<img src="banksy.jpeg">
+
 #### FLAG
