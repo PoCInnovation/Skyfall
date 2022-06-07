@@ -13,11 +13,7 @@ Tools : Google
  ```
 #### EXPLAINATION
 ```
+![plot](./stickerz.jpg)
 
-```
-```
-for x in range(0, 16):
-    value = (0, 18446744073709551614)
-    print(dichotomic(value, 0))
 ```
 #### FLAG
