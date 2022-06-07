@@ -12,8 +12,7 @@ Tools : Google
  - It's a part of OSINT, it's Geoint
  ```
 #### EXPLAINATION
-```
+
 ![plot](./stickerz.jpg)
 
-```
 #### FLAG
