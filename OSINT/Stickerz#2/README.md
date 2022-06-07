@@ -13,6 +13,6 @@ Tools : Google
  ```
 #### EXPLAINATION
 
-![plot](./stickerz.jpg)
+ <img src="stickerz2.jpg">
 
 #### FLAG
