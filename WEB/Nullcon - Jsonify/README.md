@@ -2,7 +2,7 @@
 ```
 Type: Web
 Plateform : Nullcon
-Difficulty : [x] [] [] [] []
+Difficulty : [x] [x] [] [] []
 Tools : web-console
 ```
 
@@ -10,7 +10,7 @@ Tools : web-console
 Everyone's telling me that serialize/unserialize should not be used with user-supplied input.</br>
 Alright, I implemented my own JSON-based (un)serializer, so all potential vulnerabilities are gone, right?
 
---> writeup inspired by @pihnv
+--> writeup inspired by @pihnv</br>
 https://hackmd.io/@pihnv/nullcon-goa-hackimctf-2022-writeup#Jsonify
 
 #### STEP 1
